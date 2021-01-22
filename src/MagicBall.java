@@ -38,7 +38,7 @@ public class MagicBall extends Application
             @Override
             public void handle(ActionEvent e)
             {
-                magicBallImage.setImage(magicBallImages[(int)(Math.random() * 6) + 1]);
+                magicBallImage.setImage(magicBallImages[(int)(Math.random() * 5) + 1]);
             }
         };
 
