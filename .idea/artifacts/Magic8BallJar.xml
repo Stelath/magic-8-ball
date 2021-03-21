@@ -1,6 +1,6 @@
 <component name="ArtifactManager">
-  <artifact type="jar" name="Magic8Ball">
-    <output-path>$PROJECT_DIR$/out/artifacts/Magic8Ball</output-path>
+  <artifact type="jar" name="Magic8BallJar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Magic8BallJar</output-path>
     <root id="archive" name="magic-8-ball.jar">
       <element id="module-output" name="magic-8-ball" />
     </root>
